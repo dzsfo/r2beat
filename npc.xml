@@ -1,0 +1,60 @@
+﻿<?xml version="2.0" encoding="UTF-8"?>
+<NPCModel>
+	<!--
+		[必填] Name表示NPC的名字，在GB18030编码下最长14字节，太长gfis会报错
+		[必填] Speed表示NPC的手速，取值范围1-10
+		[必填] Accuracy表示NPC的判定，取值范围1-10，不要太低否则NPC会一直打红点或摔
+		[必填] Stability表示NPC的稳定性/体力，取值范围1-10
+		[选填] Gender表示NPC的性别，取值范围M（男）或F（女）
+		[必填] Role表示NPC的角色，取值范围1xxxxx
+		[选填] Wear表示NPC的穿着，没有穿着别填，多件穿着需重复填，见下面的示例
+	-->
+	<NPC>
+		<Name>Marie</Name>
+		<Speed>4</Speed>
+		<Accuracy>9</Accuracy>
+		<Stability>7</Stability>
+		<Gender>F</Gender>
+		<Role>130902</Role>
+	</NPC>
+	<NPC>
+		<Name>Lindsey</Name>
+		<Speed>10</Speed>
+		<Accuracy>10</Accuracy>
+		<Stability>10</Stability>
+		<Gender>F</Gender>
+		<Role>130903</Role>
+	</NPC>
+	<NPC>
+		<Name>King</Name>
+		<Speed>8</Speed>
+		<Accuracy>7</Accuracy>
+		<Stability>8</Stability>
+		<Gender>M</Gender>
+		<Role>130904</Role>
+	</NPC>
+	<NPC>
+		<Name>Silver</Name>
+		<Speed>10</Speed>
+		<Accuracy>9</Accuracy>
+		<Stability>9</Stability>
+		<Gender>M</Gender>
+		<Role>130905</Role>
+	</NPC>
+	<NPC>
+		<Name>Naree</Name>
+		<Speed>5</Speed>
+		<Accuracy>9</Accuracy>
+		<Stability>6</Stability>
+		<Gender>F</Gender>
+		<Role>130906</Role>
+	</NPC>
+	<NPC>
+		<Name>Sue</Name>
+		<Speed>8</Speed>
+		<Accuracy>9</Accuracy>
+		<Stability>10</Stability>
+		<Gender>F</Gender>
+		<Role>130907</Role>
+	</NPC>
+</NPCModel>
