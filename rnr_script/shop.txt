@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<Item Index="1000001" Name="菱땡속醵엥" Cash="1" P3="1" ItemEffect="17"></Item>
+<Item Index="1000002" Name="菱땡踏狗엥" Cash="1" P3="1" ItemEffect="23"></Item>
+
+<Item Index="600100" Name="QGG" Cash="1" P3="1" ItemEffect="1"></Item>
+<Item Index="600101" Name="QMM" Cash="1" P3="1" ItemEffect="1"></Item>
+<Item Index="600010" Name="꼈땀듐듐" Cash="1" P3="1" ItemEffect="1"></Item>
