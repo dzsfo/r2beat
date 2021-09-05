@@ -13867,6 +13867,28 @@
 	FileHash="42B573F3F8A1AA97E70821026E304809754DB0A0"
 ></Music>
 <Music
+	Index="4669"
+	Name="MPI"
+	Image="n_song4669/music_4669.bmp"
+	File="n_song4669/n_song4669.xml"
+	Level="12"
+	Genre="R2Beat"
+	Artist="Juni"
+	Coin="0"
+	FileHash="E89EF26466D8C1FE39E9D7944C4FB5A3C4EA4439"
+></Music>
+<Music
+	Index="4670"
+	Name="MPI"
+	Image="n_song4669/music_4669.bmp"
+	File="n_song4669/h_song4670.xml"
+	Level="16"
+	Genre="R2Beat"
+	Artist="Juni"
+	Coin="0"
+	FileHash="DB30C8119DDB2087271FBA00F00F1C4C9A5DDD68"
+></Music>
+<Music
 	Index="4678"
 	Name="U.N.¥ª©`¥¨¥ó¤Ï±ËÅ®¤Ê¤Î¤«? (Radio Edit)"
 	Image="n_song4678/music_4678.bmp"
