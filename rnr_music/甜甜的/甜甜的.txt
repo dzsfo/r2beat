@@ -1,0 +1,9 @@
+<Music
+	Index="5331"
+	Name="ÌðÌðµÄ - ÖÜ½ÜÂ×"
+	Image="ÌðÌðµÄ/ÌðÌðµÄ.bmp"
+	File="ÌðÌðµÄ/ÌðÌðµÄ.xml"
+	Level="7"
+	Genre="Pop"
+	Artist="°Ë1¸ç¸çÅ¶"
+/>

@@ -1,0 +1,9 @@
+<Music
+	Index="5330"
+	Name="·çÓì - ãÆ¶«ì¿"
+	Image="·çÓì/·çÓì.bmp"
+	File="·çÓì/·çÓì.xml"
+	Level="18"
+	Genre="Edm"
+	Artist="°Ë1¸ç¸çÅ¶"
+/>

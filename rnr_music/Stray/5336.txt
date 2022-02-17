@@ -1,0 +1,9 @@
+<Music
+	Index="5336"
+	Name="Stray - Feint"
+	Image="Stray/Stray.bmp"
+	File="Stray/Stray.xml"
+	Level="16"
+	Genre="Edm"
+	Artist="검1며며킷"
+/>
