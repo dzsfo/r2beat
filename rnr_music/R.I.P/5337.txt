@@ -1,0 +1,9 @@
+<Music
+	Index="5337"
+	Name="R.I.P. - eicateve"
+	Image="R.I.P/R.I.P.bmp"
+	File="R.I.P/R.I.P.xml"
+	Level="19"
+	Genre="Electronica"
+	Artist="검1며며킷"
+/>
