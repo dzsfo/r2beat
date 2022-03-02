@@ -1,0 +1,9 @@
+<Music
+	Index="8100"
+	Name="Fight - BeatBrothers"
+	Image="Fight/Fight.bmp"
+	File="Fight/Fight.xml"
+	Level="0"
+	Genre="´¿ÒôÀÖ"
+	Artist="°Ë1¸ç¸çÅ¶"
+/>
